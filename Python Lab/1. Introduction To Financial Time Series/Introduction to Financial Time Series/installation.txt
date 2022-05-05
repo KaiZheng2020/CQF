@@ -1,0 +1,57 @@
+# Jan 2022
+# Python Labs by Kannan Singaravelu
+
+(A) Installation & Settings (Optional)
+---------------------------------------
+1.  Create 'cqf' folder under 'Projects' directory in your home directory 
+        $ ~/Projects/cqf
+2.  Save the requirements.txt in the 'cqf' folder
+3.  Save the helper.py in the 'cqf' folder
+4.  Create a new conda environment by name 'pythonlab'
+        $ conda create --name pythonlab python=3.8
+5.  Activate the newly created conda environment
+        $ conda activate pythonlab
+6.  Install required packages 
+        $ pip install -r requirements.txt
+
+
+(B) Lab Sessions
+-----------------
+Dates	       	        Topic									
+2022-02-14	   	Introduction to Financial Time Series		
+2022-02-25	   	Binomial Trees in Option Pricing			
+2022-03-04	   	Portfolio Optimisation					
+2022-03-10	   	Value at Risk & GARCH
+2022-03-17	   	Black Scholes Option Pricing 		 
+2022-03-24	        Monte Carlo Simulation		
+2022-03-28	        Finite Difference Methods		
+2022-04-06	   	Implied Volatility
+2022-04-29	   	Intro to Machine Learning using Scikit-learn
+2022-05-11	   	KNN & SVR for Stock Prediction
+2022-05-16	   	Gradient Boosting for Price Prediction
+2022-05-25	   	K-Means Clustering & Self Organising Maps
+2022-05-30	   	Application of Neural Networks using TensorFlow & Keras
+2022-06-10	   	Reinforcement Learning
+2022-06-27		Yield Curve Data Analysis		
+2022-07-15		Intensity Models			
+2022-07-18		CDS Pricing				
+
+
+(C) How To Get Help?
+--------------------
+1. Questions via chat  (during the session)
+2. Documentation Pages (links as provided in each notebook)
+3. Stack Overflow
+4. Questions via email
+
+
+(D) References & Resources
+--------------------------- 
+1. https://stackoverflow.com
+2. https://github.com/kannansingaravelu/PythonResources
+3. https://docs.python.org/3.8
+
+
+(E) Contact
+------------
+Kannan Singaravelu

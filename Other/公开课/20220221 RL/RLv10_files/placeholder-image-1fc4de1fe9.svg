@@ -1,0 +1,24 @@
+<svg id="placeholder-image.svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="292" viewBox="0 0 390 292">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #e7f1f3;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="195" y1="292" x2="195" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f1f6f7"/>
+      <stop offset="1" stop-color="#f7fafa"/>
+    </linearGradient>
+  </defs>
+  <rect id="Box" class="cls-1" width="390" height="292"/>
+  <path id="Shape" class="cls-2" d="M979,1421H589v-81.89l122.6-37.99L816,1338.86l104.4-80.87,58.6,30.93V1421Z" transform="translate(-589 -1129)"/>
+  <circle id="Ellipse" class="cls-3" cx="231.5" cy="112.5" r="33.5"/>
+</svg>
