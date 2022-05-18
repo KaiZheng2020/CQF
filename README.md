@@ -44,3 +44,11 @@ zipline     https://github.com/quantopian/zipline
 # AI
 
 https://scikit-learn.org/
+
+# Typical Areas
+
+- Investment Predictions
+  - Macro-Forcasting
+  - Robo-Advisors
+- NLP
+  - Sentiment Analysis

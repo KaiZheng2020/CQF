@@ -1,0 +1,320 @@
+Layer_1,Layer_2,Keyword,Stem
+Environment,GHG Emissions,greenhouse,greenhous
+Environment,GHG Emissions,gas,gas
+Environment,GHG Emissions,GHG,GHG
+Environment,GHG Emissions,truck,truck
+Environment,GHG Emissions,combustion,combust
+Environment,GHG Emissions,fuel,fuel
+Environment,GHG Emissions,biogenic,biogen
+Environment,GHG Emissions,Kyoto,Kyoto
+Environment,GHG Emissions,Protocol,Protocol
+Environment,GHG Emissions,carbon,carbon
+Environment,GHG Emissions,dioxide,dioxid
+Environment,GHG Emissions,CO2,CO2
+Environment,GHG Emissions,methane,methan
+Environment,GHG Emissions,CH4,CH4
+Environment,GHG Emissions,nitrous,nitrous
+Environment,GHG Emissions,N2O,N2O
+Environment,GHG Emissions,hydrofluorocarbon,hydrofluorocarbon
+Environment,GHG Emissions,HFC,HFC
+Environment,GHG Emissions,perfluorocarbon,perfluorocarbon
+Environment,GHG Emissions,PFC,PFC
+Environment,GHG Emissions,hexafluoride,hexafluorid
+Environment,GHG Emissions,SF6,SF6
+Environment,GHG Emissions,trifluoride,trifluorid
+Environment,GHG Emissions,NF3,NF3
+Environment,Air Quality,air,air
+Environment,Air Quality,stationary,stationari
+Environment,Air Quality,factories,factori
+Environment,Air Quality,power,power
+Environment,Air Quality,plant,plant
+Environment,Air Quality,vehicles,vehicl
+Environment,Air Quality,plane,plane
+Environment,Air Quality,emissions,emiss
+Environment,Air Quality,airborne,airborn
+Environment,Air Quality,oxides,oxid
+Environment,Air Quality,nitrogen,nitrogen
+Environment,Air Quality,Nox,Nox
+Environment,Air Quality,sulfur,sulfur
+Environment,Air Quality,Sox,Sox
+Environment,Air Quality,volatile,volatil
+Environment,Air Quality,compounds,compound
+Environment,Air Quality,VOCs,VOCs
+Environment,Air Quality,heavy,heavi
+Environment,Air Quality,metals,metal
+Environment,Air Quality,particulate,particul
+Environment,Air Quality,matter,matter
+Environment,Air Quality,chlorofluorocarbons,chlorofluorocarbon
+Environment,Energy Management,energy,energi
+Environment,Energy Management,provision,provis
+Environment,Energy Management,grid,grid
+Environment,Energy Management,reliance,relianc
+Environment,Water & Wastewater Management ,water,water
+Environment,Water & Wastewater Management ,wastewater,wastewat
+Environment,Water & Wastewater Management ,discharge,discharg
+Environment,Water & Wastewater Management ,groundwater,groundwat
+Environment,Water & Wastewater Management ,aquifer,aquif
+Environment,Water & Wastewater Management ,pollution,pollut
+Environment,Waste & Hazardous Materials Management,hazardous,hazard
+Environment,Waste & Hazardous Materials Management,waste,wast
+Environment,Waste & Hazardous Materials Management,solid,solid
+Environment,Waste & Hazardous Materials Management,agriculture,agricultur
+Environment,Waste & Hazardous Materials Management,treatment,treatment
+Environment,Waste & Hazardous Materials Management,handling,handl
+Environment,Waste & Hazardous Materials Management,storage,storag
+Environment,Waste & Hazardous Materials Management,disposal,dispos
+Environment,Ecological Impacts,ecosystems,ecosystem
+Environment,Ecological Impacts,biodiversity,biodivers
+Environment,Ecological Impacts,land,land
+Environment,Ecological Impacts,exploration,explor
+Environment,Ecological Impacts,natural,natur
+Environment,Ecological Impacts,extraction,extract
+Environment,Ecological Impacts,construction,construct
+Environment,Ecological Impacts,habitat,habitat
+Environment,Ecological Impacts,deforestation,deforest
+Environment,Ecological Impacts,site,site
+Environment,Ecological Impacts,remediation,remedi
+Social Capital,Human Rights & Community Relations,relationship,relationship
+Social Capital,Human Rights & Community Relations,businesses,busi
+Social Capital,Human Rights & Community Relations,communities,communiti
+Social Capital,Human Rights & Community Relations,core,core
+Social Capital,Human Rights & Community Relations,indigenous,indigen
+Social Capital,Human Rights & Community Relations,peoples,peopl
+Social Capital,Human Rights & Community Relations,environmental,environment
+Social Capital,Human Rights & Community Relations,justice,justic
+Social Capital,Human Rights & Community Relations,cultivation,cultiv
+Social Capital,Customer Privacy,secondary,secondari
+Social Capital,Customer Privacy,purposes,purpos
+Social Capital,Customer Privacy,affiliates,affili
+Social Capital,Customer Privacy,obtaining,obtain
+Social Capital,Customer Privacy,consent,consent
+Social Capital,Customer Privacy,opt-in,opt-in
+Social Capital,Data Security,collection,collect
+Social Capital,Data Security,retention,retent
+Social Capital,Data Security,confidential,confidenti
+Social Capital,Data Security,proprietary,proprietari
+Social Capital,Data Security,user,user
+Social Capital,Data Security,data,data
+Social Capital,Data Security,breach,breach
+Social Capital,Data Security,identifiable,identifi
+Social Capital,Data Security,information,inform
+Social Capital,Data Security,PII,PII
+Social Capital,Data Security,exposed,expos
+Social Capital,Data Security,IT,IT
+Social Capital,Data Security,infrastructure,infrastructur
+Social Capital,Data Security,record,record
+Social Capital,Data Security,keeping,keep
+Social Capital,Data Security,security,secur
+Social Capital,Access & Affordability,groups,group
+Social Capital,Access & Affordability,needs,need
+Social Capital,Access & Affordability,accessibility,access
+Social Capital,Access & Affordability,affordability,afford
+Social Capital,Access & Affordability,care,care
+Social Capital,Access & Affordability,education,educ
+Social Capital,Access & Affordability,telecommunications,telecommun
+Social Capital,Product Quality & Safety,unintended,unintend
+Social Capital,Product Quality & Safety,products,product
+Social Capital,Product Quality & Safety,sold,sold
+Social Capital,Product Quality & Safety,services,servic
+Social Capital,Product Quality & Safety,provided,provid
+Social Capital,Product Quality & Safety,end-users,end-us
+Social Capital,Product Quality & Safety,liability,liabil
+Social Capital,Product Quality & Safety,recalls,recal
+Social Capital,Product Quality & Safety,withdrawals,withdraw
+Social Capital,Product Quality & Safety,testing,test
+Social Capital,Product Quality & Safety,chemicals,chemic
+Social Capital,Product Quality & Safety,content,content
+Social Capital,Product Quality & Safety,ingredient,ingredi
+Social Capital,Customer Welfare,welfare,welfar
+Social Capital,Customer Welfare,health,health
+Social Capital,Customer Welfare,nutrition,nutrit
+Social Capital,Customer Welfare,food,food
+Social Capital,Customer Welfare,beverages,beverag
+Social Capital,Customer Welfare,antibiotic,antibiot
+Social Capital,Customer Welfare,animal,anim
+Social Capital,Customer Welfare,substances,substanc
+Social Capital,Customer Welfare,societal,societ
+Social Capital,Customer Welfare,expectations,expect
+Social Capital,Customer Welfare,design,design
+Social Capital,Customer Welfare,counterfeit,counterfeit
+Social Capital,Selling Practices & Product Labeling,social,social
+Social Capital,Selling Practices & Product Labeling,transparency,transpar
+Social Capital,Selling Practices & Product Labeling,accuracy,accuraci
+Social Capital,Selling Practices & Product Labeling,comprehensibility,comprehens
+Social Capital,Selling Practices & Product Labeling,marketing,market
+Social Capital,Selling Practices & Product Labeling,statements,statement
+Social Capital,Selling Practices & Product Labeling,advertising,advertis
+Social Capital,Selling Practices & Product Labeling,labeling,label
+Social Capital,Selling Practices & Product Labeling,misleading,mislead
+Social Capital,Selling Practices & Product Labeling,deceptive,decept
+Social Capital,Selling Practices & Product Labeling,predatory,predatori
+Social Capital,Selling Practices & Product Labeling,selling,sell
+Social Capital,Selling Practices & Product Labeling,lending,lend
+Social Capital,Selling Practices & Product Labeling,aggressive,aggress
+Human Capital,Labor Practices,labor,labor
+Human Capital,Labor Practices,laws,law
+Human Capital,Labor Practices,child,child
+Human Capital,Labor Practices,forced,forc
+Human Capital,Labor Practices,bonded,bond
+Human Capital,Labor Practices,exploitative,exploit
+Human Capital,Labor Practices,fair,fair
+Human Capital,Labor Practices,wages,wage
+Human Capital,Labor Practices,overtime,overtim
+Human Capital,Labor Practices,pay,pay
+Human Capital,Labor Practices,workers,worker
+Human Capital,Labor Practices,benefits,benefit
+Human Capital,Labor Practices,attracted,attract
+Human Capital,Labor Practices,retained,retain
+Human Capital,Labor Practices,motivated,motiv
+Human Capital,Labor Practices,organized,organ
+Human Capital,Labor Practices,freedom,freedom
+Human Capital,Labor Practices,association,associ
+Human Capital,Employee Health & Safety,workplace,workplac
+Human Capital,Employee Health & Safety,injuries,injuri
+Human Capital,Employee Health & Safety,fatalities,fatal
+Human Capital,Employee Health & Safety,illness,ill
+Human Capital,Employee Health & Safety,chronic,chronic
+Human Capital,Employee Health & Safety,acute,acut
+Human Capital,Employee Health & Safety,contractors,contractor
+Human Capital,Employee Health & Safety,audits,audit
+Human Capital,Employee Health & Safety,mental,mental
+Human Capital,Employee Health & Safety,technology,technolog
+Human Capital,Employee Health & Safety,personal,person
+Human Capital,Employee Health & Safety,protective,protect
+Human Capital,Employee Health & Safety,equipment,equip
+Human Capital,"Employee Engagement, Diversity & Inclusion",hiring,hire
+Human Capital,"Employee Engagement, Diversity & Inclusion",promotion,promot
+Human Capital,"Employee Engagement, Diversity & Inclusion",practices,practic
+Human Capital,"Employee Engagement, Diversity & Inclusion",diverse,divers
+Human Capital,"Employee Engagement, Diversity & Inclusion",inclusive,inclus
+Human Capital,"Employee Engagement, Diversity & Inclusion",workforce,workforc
+Human Capital,"Employee Engagement, Diversity & Inclusion",talent,talent
+Human Capital,"Employee Engagement, Diversity & Inclusion",pools,pool
+Human Capital,"Employee Engagement, Diversity & Inclusion",customer,custom
+Human Capital,"Employee Engagement, Diversity & Inclusion",base,base
+Human Capital,"Employee Engagement, Diversity & Inclusion",discriminatory,discriminatori
+Human Capital,"Employee Engagement, Diversity & Inclusion",race,race
+Human Capital,"Employee Engagement, Diversity & Inclusion",gender,gender
+Human Capital,"Employee Engagement, Diversity & Inclusion",ethnicity,ethnic
+Human Capital,"Employee Engagement, Diversity & Inclusion",religion,religion
+Human Capital,"Employee Engagement, Diversity & Inclusion",sexual,sexual
+Business Model & Innovation,Product Design & Lifecycle Management,lifecycle,lifecycl
+Business Model & Innovation,Product Design & Lifecycle Management,packaging,packag
+Business Model & Innovation,Product Design & Lifecycle Management,distribution,distribut
+Business Model & Innovation,Product Design & Lifecycle Management,use-phase,use-phas
+Business Model & Innovation,Product Design & Lifecycle Management,resource,resourc
+Business Model & Innovation,Product Design & Lifecycle Management,intensity,intens
+Business Model & Innovation,Product Design & Lifecycle Management,externalities,extern
+Business Model & Innovation,Product Design & Lifecycle Management,end,end
+Business Model & Innovation,Product Design & Lifecycle Management,life,life
+Business Model & Innovation,Product Design & Lifecycle Management,sustainable,sustain
+Business Model & Innovation,Business Model Resilience,long-term,long-term
+Business Model & Innovation,Business Model Resilience,model,model
+Business Model & Innovation,Business Model Resilience,transition,transit
+Business Model & Innovation,Business Model Resilience,ow-carbon,ow-carbon
+Business Model & Innovation,Business Model Resilience,climate-constrained,climate-constrain
+Business Model & Innovation,Business Model Resilience,unserved,unserv
+Business Model & Innovation,Business Model Resilience,underserved,underserv
+Business Model & Innovation,Business Model Resilience,socio-economic,socio-econom
+Business Model & Innovation,Business Model Resilience,populations,popul
+Business Model & Innovation,Business Model Resilience,realities,realiti
+Business Model & Innovation,Supply Chain Management,human,human
+Business Model & Innovation,Supply Chain Management,rights,right
+Business Model & Innovation,Materials Sourcing & Efficiency,supply,suppli
+Business Model & Innovation,Materials Sourcing & Efficiency,chains,chain
+Business Model & Innovation,Materials Sourcing & Efficiency,end-of-life,end-of-lif
+Business Model & Innovation,Materials Sourcing & Efficiency,recycled,recycl
+Business Model & Innovation,Materials Sourcing & Efficiency,renewable,renew
+Business Model & Innovation,Materials Sourcing & Efficiency,dematerialization,demateri
+Business Model & Innovation,Materials Sourcing & Efficiency,efficiency,effici
+Business Model & Innovation,Materials Sourcing & Efficiency,manufacturing,manufactur
+Business Model & Innovation,Materials Sourcing & Efficiency,R&D,R&D
+Business Model & Innovation,Materials Sourcing & Efficiency,investments,invest
+Business Model & Innovation,Materials Sourcing & Efficiency,substitute,substitut
+Business Model & Innovation,Materials Sourcing & Efficiency,materials,materi
+Business Model & Innovation,Materials Sourcing & Efficiency,screening,screen
+Business Model & Innovation,Materials Sourcing & Efficiency,selection,select
+Business Model & Innovation,Materials Sourcing & Efficiency,monitoring,monitor
+Business Model & Innovation,Materials Sourcing & Efficiency,engagement,engag
+Business Model & Innovation,Materials Sourcing & Efficiency,suppliers,supplier
+Business Model & Innovation,Materials Sourcing & Efficiency,resilience,resili
+Business Model & Innovation,Physical Impacts of Climate Change ,physical,physic
+Business Model & Innovation,Physical Impacts of Climate Change ,climate,climat
+Business Model & Innovation,Physical Impacts of Climate Change ,change,chang
+Business Model & Innovation,Physical Impacts of Climate Change ,operational,oper
+Business Model & Innovation,Physical Impacts of Climate Change ,disruptions,disrupt
+Business Model & Innovation,Physical Impacts of Climate Change ,insurance,insur
+Business Model & Innovation,Physical Impacts of Climate Change ,mortgages,mortgag
+Business Model & Innovation,Physical Impacts of Climate Change ,adapt,adapt
+Business Model & Innovation,Physical Impacts of Climate Change ,frequency,frequenc
+Business Model & Innovation,Physical Impacts of Climate Change ,severity,sever
+Business Model & Innovation,Physical Impacts of Climate Change ,extreme,extrem
+Business Model & Innovation,Physical Impacts of Climate Change ,weather,weather
+Business Model & Innovation,Physical Impacts of Climate Change ,sea,sea
+Leadership & Governance,Business Ethics,fraud,fraud
+Leadership & Governance,Business Ethics,corruption,corrupt
+Leadership & Governance,Business Ethics,bribery,briberi
+Leadership & Governance,Business Ethics,facilitation,facilit
+Leadership & Governance,Business Ethics,fiduciary,fiduciari
+Leadership & Governance,Business Ethics,responsibilities,respons
+Leadership & Governance,Business Ethics,ethical,ethic
+Leadership & Governance,Business Ethics,sensitivity,sensit
+Leadership & Governance,Business Ethics,norms,norm
+Leadership & Governance,Business Ethics,standards,standard
+Leadership & Governance,Business Ethics,shift,shift
+Leadership & Governance,Business Ethics,jurisdiction,jurisdict
+Leadership & Governance,Business Ethics,culture,cultur
+Leadership & Governance,Business Ethics,avoid,avoid
+Leadership & Governance,Business Ethics,misrepresentation,misrepresent
+Leadership & Governance,Business Ethics,negligence,neglig
+Leadership & Governance,Business Ethics,training,train
+Leadership & Governance,Business Ethics,employees,employe
+Leadership & Governance,Business Ethics,bias,bias
+Leadership & Governance,Business Ethics,error,error
+Leadership & Governance,Competitive Behavior,monopolies,monopoli
+Leadership & Governance,Competitive Behavior,excessive,excess
+Leadership & Governance,Competitive Behavior,prices,price
+Leadership & Governance,Competitive Behavior,poor,poor
+Leadership & Governance,Competitive Behavior,quality,qualiti
+Leadership & Governance,Competitive Behavior,inefficiencies,ineffici
+Leadership & Governance,Competitive Behavior,anti-competitive,anti-competit
+Leadership & Governance,Competitive Behavior,bargaining,bargain
+Leadership & Governance,Competitive Behavior,collusion,collusion
+Leadership & Governance,Competitive Behavior,fixing,fix
+Leadership & Governance,Competitive Behavior,manipulation,manipul
+Leadership & Governance,Competitive Behavior,patents,patent
+Leadership & Governance,Competitive Behavior,intellectual,intellectu
+Leadership & Governance,Competitive Behavior,property,properti
+Leadership & Governance,Management of the Legal & Regulatory Environment,conflicting,conflict
+Leadership & Governance,Management of the Legal & Regulatory Environment,corporate,corpor
+Leadership & Governance,Management of the Legal & Regulatory Environment,public,public
+Leadership & Governance,Management of the Legal & Regulatory Environment,regulatory,regulatori
+Leadership & Governance,Management of the Legal & Regulatory Environment,policy,polici
+Leadership & Governance,Management of the Legal & Regulatory Environment,monetary,monetari
+Leadership & Governance,Management of the Legal & Regulatory Environment,incentives,incent
+Leadership & Governance,Management of the Legal & Regulatory Environment,subsidies,subsidi
+Leadership & Governance,Management of the Legal & Regulatory Environment,taxes,tax
+Leadership & Governance,Management of the Legal & Regulatory Environment,lobbying,lobbi
+Leadership & Governance,Management of the Legal & Regulatory Environment,competitiveness,competit
+Leadership & Governance,Management of the Legal & Regulatory Environment,comply,compli
+Leadership & Governance,Critical Incident Risk Management,scenario,scenario
+Leadership & Governance,Critical Incident Risk Management,planning,plan
+Leadership & Governance,Critical Incident Risk Management,low-probability,low-prob
+Leadership & Governance,Critical Incident Risk Management,high-impact,high-impact
+Leadership & Governance,Critical Incident Risk Management,accidents,accid
+Leadership & Governance,Critical Incident Risk Management,emergencies,emerg
+Leadership & Governance,Critical Incident Risk Management,safety,safeti
+Leadership & Governance,Critical Incident Risk Management,controls,control
+Leadership & Governance,Critical Incident Risk Management,events,event
+Leadership & Governance,Systemic Risk Management,large-scale,large-scal
+Leadership & Governance,Systemic Risk Management,weakening,weaken
+Leadership & Governance,Systemic Risk Management,collapse,collaps
+Leadership & Governance,Systemic Risk Management,systems,system
+Leadership & Governance,Systemic Risk Management,depend,depend
+Leadership & Governance,Systemic Risk Management,safeguards,safeguard
+Leadership & Governance,Systemic Risk Management,failure,failur
+Leadership & Governance,Systemic Risk Management,absorb,absorb
+Leadership & Governance,Systemic Risk Management,shocks,shock
+Leadership & Governance,Systemic Risk Management,stress,stress
+Leadership & Governance,Systemic Risk Management,complexity,complex
+Leadership & Governance,Systemic Risk Management,interconnectedness,interconnected
